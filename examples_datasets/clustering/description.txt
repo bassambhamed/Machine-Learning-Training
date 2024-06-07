@@ -1,0 +1,9 @@
+L'ensemble de données "Mall Customers" contient des informations sur les clients qui visitent un centre commercial. Il est principalement utilisé pour la segmentation et l'analyse des clients. Chaque ligne du jeu de données représente un client, et il y a généralement plusieurs colonnes qui fournissent des informations sur les attributs de chaque client.
+
+Colonnes communes : L'ensemble de données peut inclure tout ou partie des colonnes suivantes :
+
+CustomerID : identifiant unique pour chaque client.
+Sexe : Le sexe du client (par exemple, homme ou femme).
+Age : âge du client.
+Annual Income (k$) : Le revenu annuel du client en milliers de dollars.
+Spending Score (1-100) : Note attribuée au client en fonction de son comportement en matière de dépenses. Ce score peut varier de 1 à 100, les valeurs les plus élevées indiquant des clients plus actifs et plus dépensiers.

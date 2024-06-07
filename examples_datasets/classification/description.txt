@@ -1,0 +1,10 @@
+L'ensemble de données Iris comprend trois espèces d'iris avec 50 échantillons chacune ainsi que certaines propriétés de chaque fleur. 
+
+Les colonnes de cet ensemble de données sont :
+
+Id
+SepalLengthCm
+SepalWidthCm
+PetalLengthCm
+PetalWidthCm
+Species

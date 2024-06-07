@@ -1,0 +1,1 @@
+Utilisez l'ensemble de données sur les publicités et analysez la relation entre "TV advertising", "Radio", "Newspaper" et "Sales" à l'aide de modèles de régression.
